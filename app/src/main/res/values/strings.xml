@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CitiesOfTurkey</string>
+    <string name="normalGame">Normal Oyun</string>
+    <string name="timedGame">Süreli Oyun</string>
+    <string name="exit">Çıkış</string>
+    <string name="gameName">Türkiye Şehirlerini Bilelim</string>
+    <string name="infoText">İpucu</string>
+    <string name="underscore">_ _ _ _ _</string>
+    <string name="enterYourGuess">Tahmininizi Giriniz</string>
+    <string name="getLetter">Harf Al</string>
+    <string name="guess">Tahmin Et</string>
+    <string name="point">Puan: 0</string>
+    <string name="timer">Süre: </string>
+    <string name="tryAgain">Yeniden Oyna</string>
+    <string name="record">Rekor: </string>
+
+</resources>
